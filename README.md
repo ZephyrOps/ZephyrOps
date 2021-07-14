@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZephyrOps
 - 👀 I’m interested in ... PowerShell & Bash Scripting, Full Stack Development, Cloud Infrastructure, and DevOps Practices
-- 🌱 I’m currently learning ... PowerShell and Ubuntu Linux
-- 💞️ I’m looking to collaborate on ... Nothing yet! Still learning before I jump into a project 
+- 🌱 I’m currently learning ... PowerShell and Ubuntu Linux / Red Hat Enterprise Linux.
+- 💞️ I’m looking to collaborate on ... Nothing yet! Still cementing the basics before we start making complex tools.
 - 📫 How to reach me ... via LinkedIn or at my personal email address - shawn.mic.thomas@gmail.com
 
 <!---
